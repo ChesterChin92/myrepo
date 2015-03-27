@@ -4,6 +4,8 @@ __author__ = 'Chester Chin'
 import pygame
 from pygame.locals import *
 
+def rectangle_gen:
+    print "This is a smaple bufferline for future coding."
 
 
 red = (255,0,0)
